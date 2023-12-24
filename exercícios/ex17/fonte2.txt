@@ -1,0 +1,3 @@
+       <center>teste </center> tag de centralização obsoleta
+       <body bgcolor="black">
+       <body bgcolor="blue">

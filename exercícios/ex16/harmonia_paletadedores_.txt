@@ -1,0 +1,35 @@
+  circulo cromático  
+ serve para harmonia, criar comodidade visual. simetria e cor são importantes.
+ as cores 
+ primárias são amarelo vermelho e azul. formando um triangulo equilátero.
+ secundárias verde, laranja, violeta e verde. formando um triangulo equilátero.
+ cor terciária, é a união de uma cor primária com uma secundária, a terciaria está entre uma cor primária e uma secundária.
+ exemplo de nome: amarelo-esverdeado amarelo p - verde s, amarelo-alaranjado, vermelho-alaranjado, veremelho-arroxeado, azul-arroxeado, azul-esverdeado,
+
+    traçando uma reta no círculo chromático dividindo entre o amarelo e amarelo esverdeado, roxo e vermelho aroxeado, tem-se cores quentes ao lado esquerdo, chamamos de cores frias, pelo outro chamamos cores quentes, famosa temperatura das cores. elas criam uma harmonia, pois são cores análogas.
+  geralmente uma paleta tem 3 a 5 cores no máximo. dica use a cor primária da cor do cliente.
+   
+     cores complementares 
+  cores que são ao contrárias tem um alto contraste, exemplo violeta com amarelo. azul e laranja, vermelho e verde.
+
+     cores análogas
+ não possuem um contráste elevado, porém ão bem notáveis, pegue uma cor em seguida imediatamente ao 
+ lado, violeta, azul-arroxeado, vermelho arroxeado.
+
+     cores análogas e uma complementares
+ violeta- seus imediatos e o amarelo
+
+     cores análogas relacionadas
+     pegamos duas cores e pulamos uma cor, ex: amarelo, amarelo-alaranjado, vermleho laranjado
+
+     cores intercaladas 
+      também formam uma paleta, porém é uma combinação dura.
+     - cores intercaladas triádicas: exemplo das cores primárias e secundárias
+      cores em quadrado (amarelo, vermleho-alaranjado,azul-esverdeado,amarelo-esverdeado) cores fortes e balanceadas.
+     - cores tetrádicas
+      pega sempre o complentar e as cores escolhidas, formei um retângulo e também uma paleta.
+     - monocromia
+     pegamos uma cor, e modificamos a saturação e o brilho.( usando hsl) criamos um degradê baiando a luminosidade de qualquer paleta seja ela qual for.
+
+
+

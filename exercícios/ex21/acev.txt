@@ -1,0 +1,66 @@
+modelo de caixas, tudo que é exibido em html, serve para organizar a tela do html, formar uma estrutura de aninhamanto.
+temos palavras que se parecem muito que representam o tamanho da estrutura em uma caixa.
+                  o termo possui 
+altura = height
+largura = width
+
+                  comsigo traçar linhas em volta da caixa.
+usando o border = borda, um espaço a mais podemos usar o 
+padding = acochoamento/preechimento.
+
+posso também criar um outro elemento que seu border vai colar no border do elemento próximo.
+
+temos também o espaço externo, que chamamos de margin = margem.
+
+temos temos também o contorno ou traçado também, vulgo outline.
+
+                                tipos de caixas
+box-level                                       inline-level
+sempre ocupa a width total da tela                 uma caixa que fica dentro do corpo
+100% da wp.                                        dentro da linha.    
+   <div>x</div>                                           <span>
+tag box level   
++ exemplos                                                    + exemplos      
+<h1>...h6						     	<a>			
+<p>                                                             <code>        
+main      princial                                              <small>         
+header    cabeça                                                <strong>             
+nav                                                             <em>      
+article   artigo                                                <sup>-<sub>                 
+aside     de lado						<label>	
+footer    rodapé                                                <button>             
+form      formulário                                            <input>                         
+video								<select>		
+
+O Elemento HTML de Navegação ( <nav> ) representa uma seção de uma página que aponta para outras páginas 
+ou para outras áreas da página, ou seja, uma seção com links de navegação.
+
+obs, basta colocar uma # na tag <a>
+user agent = navegador exibindo o navegador.
+
+
+h1{
+   seletor
+}
+
+dashed=pontilhado segmentos
+dotted= pontilhado pontos
+doble = linha dupla
+
+margem é da borda pra fora.
+padding é da borda atá a fonte.
+
+se eu quiser a margem no meio eu uso margin: auto;
+
+ padding: 10px 10px 10px 10px;
+  padding: 10px;
+   padding: 10px 20px; 10 top e bottom 20 right e left
+
+temos o display inline-block; que vai continuar sendo inline, mas com características de block,  vou alterar tamanho largura e etc.
+
+
+                                                                       
+                                                                         
+                                     
+
+

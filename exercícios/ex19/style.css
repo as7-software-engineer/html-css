@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* em HTML é id = em CSS é #   
+   em HTML é class = em CSS é .
+
+   conseguimos identificar um elemento e classificar multiplos elementos. 
+   nomeamos de acordo com a funçao da palavra e nao seu estilo. class=" verde" x  sim class="básico.."
+
+   o id sobrepõe as classe em uma formatação simultânea.
+*/
+body{
+    background-color: rgb(255, 208, 0);
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+     color:brown
+     
+}
+h1#principal{
+    color:blueviolet;
+    text-align:center;
+    background-color: cornflowerblue;
+}
+h2{
+    color:hsl(250, 100%, 50%);
+}
+/*
+h2.basico errado.
+}
+*/ .basico{
+color:cadetblue;
+font-weight:bold;
+}
+.intermediario{
+   color:darkgoldenrod;
+}
+.avancado{
+   color:brown;
+}
+.destaque{
+    background-color:rgba(184, 135, 11, 0.297) ;
+}

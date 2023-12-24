@@ -1,0 +1,14 @@
+planejamento do site.
+3 coisas.
+layout
+cores
+fontes
+
+<nav>x</nav> vai servir para colocar os menus.
+o strong foi usado pra destacar certas palavras dentro do texto.
+<a href="https://androidcommunity.com/dan-morrill-shows-us-the-android-mascot-that-almost-was-20130103/" target=" _blank">Dan Morrill</a> para abrir outra página e preservar nosso site em aberto.
+
+exixte um local que armazena todas as variáveis locais em nosso programa. todas as variáveis em css começam com 2 traços --
+
+ responsividade
+ é adaptar o conteúdo do seu site a todos os dispositivos e telas.

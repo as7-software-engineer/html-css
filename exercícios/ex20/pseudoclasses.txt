@@ -1,0 +1,18 @@
+ a{
+        color:red;
+        text-decoration: none;
+
+      }  
+      a:visited{              quando link for visitado, fica redescuro
+        color:darkred;
+      }
+      a:hover{
+        color: black; enquanto cursor paira sobre os elementos, cor fica preta e texto sublinhado.
+        text-decoration: underline; /* texto sublinhado*/
+      }
+      a:active{ 
+        color:yellow;                   quando eu clicar em cima com o mouse, vai ficar amarelo
+      }
+
+      pseudo elemento duas vezes dois ponto ::
+      ex a::x

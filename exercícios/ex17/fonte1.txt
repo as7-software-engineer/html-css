@@ -1,0 +1,40 @@
+Courier New deixa a fonte serifada
+font-family: Arial;
+  font-family: Arial, Helvetica, sans-serif;
+      font-family: verdana;
+       font-family: sans-serif; todos os dispositivos vão ler isso.
+       em= medida relativa ao tamanho atual da fonte M
+       ex= altura x de uma fonte
+       rem= altura relativa do em
+       vw= wiew port, % da wiew port da largura
+       vh= altura da wiew port
+       %
+       recomenda-se usar px e EM.
+       16px=1em
+        /*body {
+     /*font-family:'Work Sans',Arial, Helvetica, sans-serif;
+     /*medidas absolutas
+     cm, mm, in, px, pt, pc=paica
+
+     Medidas Relativas
+     em, ex,
+     1em=16px
+
+     */
+     /*font-size: 1em; /*no lugar de  <big> x </big>, <small>x</small>*/
+
+     /*peso da fonte       - width(largura)     height(altura)*/
+     /*font-weight: bolder; /* usamos no lugar do <b>x</b> */ 
+     /* pesos literais 
+     lighter  normal  (bold  bolder)   (negrito + negrito)
+                nuance=  Diferença quase imperceptível entre coisas, geralmente semelhantes, quando comparadas; sutileza. Etimologia (origem da palavra nuança). Do francês nuance.
+                obs: tente com fonte verdana, arial, times nao conseguirá pois nao existem muitas varições de peso.*/
+     /*font-style: italic; /* usamos no lugar do <b>x</b> */
+     /*text-decoration: underline;   /* usamos esse underline, no lugar do <*/    
+     /*obs: a minha família de fontes tem que possibilitar as configurações da fonte */  
+
+        /*todas as declarações acima, nós usamos muito, então vamoss comprimí-las*/
+        /* shorthand font
+        font-style -> font-weight -> font-size -> font-family
+        */
+   /* }*/

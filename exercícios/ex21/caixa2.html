@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>grouping tags</title>
+    <style>
+        body{
+         font-family:Arial, Helvetica, sans-serif;
+         background-color: aqua;
+         margin: 0px;   
+        }
+        header{
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+        }
+        h1{
+         box-shadow: inset 2px 1px 14px 6px black;   /*sombra interna por conta do inset*/
+        }
+        nav{
+            background-color: lightgray;
+            box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.331); /* descolamneto horizintal, vertical. espalhamento e sombra */ /*sombra externa*/
+
+        }
+        nav > a{
+            text-decoration: none; /*não sublinhado*/
+            color:white;
+            font-weight: bold;
+            margin-right: 30px;
+
+        }
+        nav > a:hover{
+            text-decoration: underline; /*enquanto o mouse estiver em cima, linha debaixo do link ou texto*/
+            color: red;
+        } 
+        main{
+         background-color: white ;
+         padding: 10px;
+         margin: 10px;
+         border-radius: 20px;/*raio da borda
+         , POSSO USAR 2 PARAMENTROS, OU 4.      SUPERIOR ESQUERDO+INFERIOR DIREITO  OU SEJA AS DIAGNONAIS IGUAIS.*/
+
+        }
+        article{
+            background-color: darkgrey;
+            padding: 5px;
+        }
+        article > aside {
+            background-color: crimson;
+
+        }
+        
+        footer{
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 4px;
+            margin: 0px;
+           
+
+        }
+        footer > p{
+            margin: 0px;;
+        }
+        div#bola{
+        height: 100px;
+        width: 100px;
+        margin: 10px;
+        background-color: white;
+        border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <header><!-- cabeçalho-->
+        <h1>meu site</h1>
+        <nav><!--vou colocar meus links-->
+           <a href="#">link</a>
+           <a href="#">link</a>
+           <a href="#">link</a>
+           <a href="#">link</a>          <!--sentido semântico introduzido, usando divs especiais semânticas-->
+           <a href="#">link</a>
+
+        </nav>
+
+    </header><!-- conteúdo principal-->
+
+    <main>
+        <section id="assuntos">
+            <p>esportes politica e tecnologia</p>
+        </section> 
+        <section id="notícias">
+             <article>
+                <h2> notícia sobre o brasil</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit similique ducimus voluptas est sed distinctio aperiam incidunt laboriosam alias porro repudiandae, ullam voluptatum debitis quia, nobis fugiat quisquam. Ipsa, officia.</p>
+                  <aside> <!-- conteúdo periférico relativo ao artigo(article)-->
+                      <p>artigo escrito</p> 
+                  </aside>
+             </article>
+             <article>
+                
+             </article>
+        </section> 
+
+
+    </main>
+    <footer><!--rodapé-->
+      <p>desenvolvido pelo curso em vídeo</p>
+
+    </footer>
+  <div id="bola"></div>
+</body>
+</html>

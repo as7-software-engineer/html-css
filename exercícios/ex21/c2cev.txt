@@ -1,0 +1,35 @@
+um site é feito de caixas, sejam elas:
+box level ou inline level.
+
+jeito antigo.
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>grouping tags</title>
+</head>
+<body>
+    <div>
+       <div id="cabeçalho">
+          <h1>
+         </h1>    
+        <div>
+
+        </div id="menu">
+         
+        </div>
+    </div>
+    <div id="conteudo">
+
+    </div>
+    <div id="rodape">
+
+    </div> 
+
+</body>
+</html>
+
+não confunda cabeça com cabeçalho.
+head e header.

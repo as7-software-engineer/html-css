@@ -1,0 +1,39 @@
+amanuense = Amanuense ou copista é aquele que faz cópia textos ou documentos à mão.
+tipografia é o estudo de como escrever coisas no papel
+boas imagens, boas letras, boas cores+ bom designn
+
+=============================================
+anatomia do tipo 
+todas as letras são baseadas na letra x, mais precisamente, em sua altura.
+acima da letra x, temos altura das maiúsculas
+o que vazar pra cima, chamamos de ascendente. o contrário chamamos de descendente.
+altura total é o CORPO
+
+================================================
+ componentes anatomicos geométricos.
+temos também a serifa, semelhante a uma saliência na estrutura do corpo da letra. ela cria uma linha imaginária.
+hastes são unidas por filetes. 
+um arco pode ligar duas hastes.
+esporão é o suporte da letra.
+vértice da letra a ou v, ligamento de dois segmentos.
+terminal.
+braço e perna na letra k como exemplos.
+temos o pé.
+espinha, curvas do S.
+barriga , letra b
+olho parte oval fechada.
+orelha letra, l
+calda, letras q g... 
+
+===================================
+glifo -> A , conjunto de glifos-> fonte
+=======================================
+A>- tem AS diferentes, espessura, entao temos familias tipograficas
+peso vai espressar uma fonte mais magrinha ou gordinha.
+light  normal seminegrito negrito extranegrito
+
+================================================
+categorias de fontes
+olá mundo serifadas , sans-serif , monoespaçadas ,  handeriting   , display
+OLA MUNDO             sem serifa                      À mão
+...
